@@ -20,5 +20,8 @@
   "private": true,
   "workspaces": [
     "packages/*"
-  ]
+  ],
+  "dependencies": {
+    "@babel/helper-validator-identifier": "^7.16.7"
+  }
 }
